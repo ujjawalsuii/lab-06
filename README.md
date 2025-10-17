@@ -1,4 +1,4 @@
-# CMPUT 301 : Lab 2 Participation Exercise
+# CMPUT 301 : Lab 6 Participation Exercise
 
 ## Student Details
 
